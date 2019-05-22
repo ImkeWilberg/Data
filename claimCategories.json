@@ -40,7 +40,7 @@
 																	"indClaim": "<p>[IC]</p>32. A method for ameliorating or preventing an adverse effect mediated by the administration of an AA-BB bispecific antibody to a human patient having a B:T cell ratio of about 1:5 or lower, said method comprising: </br>(a) determining the ratio of total B cells to total T cells in a peripheral blood sample from said human patient to identify patients at risk of developing an adverse effect; </br>(b) identifying said human patient as having an increased risk of potential adverse effects when the ratio of B:T cells is about 1:5 or less before treatment; </br>(c) administering a first dose of said antibody for a first period of time to said patient identified in </br>(b), and consecutively; </br>(d) administering a second dose of said antibody for a second period of time; wherein said second dose exceeds said first dose, and wherein said AA-BB bispecific antibody is XYZ (AB-mab).",
 																	"depClaim": "<p>[DC]</p>33. The method of claim 32, wherein said adverse effect is characterized by a neurological reaction. <p>[DC]</p>34. The method of claim 33, wherein said neurological reaction is one or more selected from the group consisting of: confusion, ataxia, disorientation, dysphasia, aphasia, speech impairment, cerebellar symptoms, tremor, apraxia, seizure, grand mal convulsion, palsy, and balance disorder.",
 																	"source": "<p>Source:</p> US8840888"
-																},
+																}
 																]
 												}]
 								},
@@ -149,7 +149,7 @@
 																}]
 												}
 												]
-								}
+								},
 								{
 									"name": "Device",
 									"color": "blue",
@@ -181,7 +181,7 @@
 																		"source": "<p>Source:</p> US9572938"
 																}]	
 												}]
-								}
+								},
 								{
 									"name": "Function",
 									"color": "red",
@@ -225,8 +225,8 @@
 													"name": "Detecting/Diagnostic",
 													"color": "orange",
 													"children": [{
-																	"name": "in vitro"
-																	"color": "orange"
+																	"name": "in vitro",
+																	"color": "orange",
 																	"claimReason": "“… method of detecting human XYZ (hXYZ) in a biological sample …”",
 																	"indClaim": "<p>[IC]</p>2. A method of detecting human XYZ (hXYZ) in a biological sample, said method comprising contacting the biological sample with an isolated human antibody, or an antigen-binding portion thereof, and detecting either an antibody, or antigen-binding portion thereof, bound to hXYZ or an unbound antibody, or antigen-binding portion thereof, to thereby detect hXYZ in the biological sample, wherein the human antibody, or antigen-binding portion thereof, dissociates from human XYZ with a Kd of 1×108 M or less and a Koff rate constant of 1×103 s1 or less, both determined by surface plasmon resonance, and neutralizes human XYZ cytotoxicity in a standard in vitro L929 assay with an IC50 of 1×107 M or less.",
 																	"depClaim": "<p>[DC]</p>3. The method of claim 2, wherein detection of the hXYZ is performed using an immunoassay. <p>[DC]</p>4. The method of claim 3, wherein the immunoassay is selected from the group consisting of an enzyme linked immunosorbent assay, a radioimmunoassay, tissue histochemistry, and a competition immunoassay. <p>[DC]</p>5. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, neutralizes human XYZ cytotoxicity in a standard in vitro L929 assay with an IC50 of 1×108 M or less. <p>[DC]</p>6. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, neutralizes human XYZ cytotoxicity in a standard in vitro L929 assay with an IC50 of 1×109 M or less. <p>[DC]</p>7. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, neutralizes human XYZ cytotoxicity in a standard in vitro L929 assay with an IC50 of 5×1010 M or less. <p>[DC]</p>8. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, dissociates from human XYZ with a Koff rate constant of 5×104 s1 or less. <p>[DC]</p>9. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, dissociates from human XYZ with a Koff rate constant of 1×104 s1 or less. <p>[DC]</p>10. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, inhibits human XYZ-induced expression of ELAM-1 in human umbilical vein endothelial cells. <p>[DC]</p>11. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, comprises a light chain variable region (LCVR) comprising a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 3, or modified from SEQ ID NO: 3 by a single alanine substitution at position 1, 4, 5, 7 or 8 or by one to five conservative amino acid substitutions at positions 1, 3, 4, 6, 7, 8 and/or 9, a CDR2 domain comprising the amino acid sequence of SEQ ID NO: 5, and a CDR1 domain comprising the amino acid sequence of SEQ ID NO: 7; and comprises a heavy chain variable region (HCVR) having a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 4, or modified from SEQ ID NO: 4 by a single alanine substitution at position 2, 3, 4, 5, 6, 8, 9, 10 or 11 or by one to five conservative amino acid substitutions at positions 2, 3, 4, 5, 6, 8, 9, 10, 11 and/or 12, a CDR2 domain comprising the amino acid sequence of SEQ ID NO: 6, and a CDR1 domain comprising the amino acid sequence of SEQ ID NO: 8. <p>[DC]</p>12. The method of claim 1 or 2, wherein the isolated human antibody, or an antigen-binding portion thereof, has a light chain variable region (LCVR) comprising the amino acid sequence of SEQ ID NO: 1 and a heavy chain variable region (HCVR) comprising the amino acid sequence of SEQ ID NO: 2. <p>[DC]</p>13. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, has an IgG1 heavy chain constant region. <p>[DC]</p>14. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, has an IgG4 heavy chain constant region. <p>[DC]</p>15. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, has a kappa light chain constant region. <p>[DC]</p>16. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, is a Fab fragment. <p>[DC]</p>17. The method of claim 1 or 2, wherein the isolated human antibody, or antigen-binding portion thereof, is a single chain Fv fragment.",
@@ -237,8 +237,8 @@
 													"name": "Functionality",
 													"color": "orange",
 													"children": [{
-																	"name": "MOA"
-																	"color": "orange"
+																	"name": "MOA",
+																	"color": "orange",
 																	"claimReason": "“… method of depleting peripheral blood B cells in a human host …”",
 																	"indClaim": "<p>[IC]</p>1. A method of depleting peripheral blood B cells in a human host comprising administering to the host an immunologically active chimeric anti-XYZ antibody in an amount effective to deplete peripheral blood B cells in the host, wherein the antibody comprises a light chain variable region comprising amino acid residues 23 to 128 of SEQ ID NO: 4, a human immunoglobulin light chain kappa constant region, a heavy chain variable region comprising amino acid residues 20 to 140 of SEQ ID NO: 6, and a human immunoglobulin heavy chain gamma 1 constant region.",
 																	"depClaim": "<p>[DC]</p>2. The method of claim 1 wherein the antibody is administered to the host in four separate infusions of 375 mg/m2 per infusion. <p>[DC]</p>3. The method of claim 1 wherein the administration of the antibody causes peripheral blood B cells in the host to be depleted for a period in excess of 2 weeks. <p>[DC]</p>4. A method for depleting peripheral blood B cells in a host in need of such treatment comprising administering an amount of an immunologically active chimeric anti-XYZ sufficient to induce B cell depletion, wherein the antibody comprises a light chain variable region comprising the amino acid sequence shown as residues 23 to 128 of SEQ ID NO: 4 and a heavy chain variable region comprising the amino acid sequence shown as residues 20 to 140 of SEQ ID NO: 6, and the amount of antibody administered comprises four separate infusions of 375 mg/m2.",
@@ -249,8 +249,8 @@
 													"name": "Safety",
 													"color": "orange",
 													"children": [{
-																	"name": "Adverse event"
-																	"color": "orange"
+																	"name": "Adverse event",
+																	"color": "orange",
 																	"claimReason": "“… method of reducing the incidence of an adverse event induced by a therapeutic dose …”",
 																	"indClaim": "<p>[IC]</p>24. A method of reducing the incidence of an adverse event induced by a therapeutic dose of an anti-XYZ monoclonal antibody or an antigen-binding portion thereof in treating a hyperproliferative disease, in a subject in need thereof comprising administering (i) a dose of an anti-ZZZ monoclonal antibody or an antigen-binding portion thereof and (ii) a subtherapeutic dose of the anti-XYZ monoclonal antibody or an antigen-binding portion thereof to the subject, wherein the subject exhibits a reduction in the adverse event after the administration.",
 																	"depClaim": "<p>[DC]</p>25. The method of claim 24, wherein the adverse event induced by the anti- XYZ monoclonal antibody or an antigen-binding portion thereof comprises colitis, diarrhea, rash, pruritis, esophagitis, duodenitis, ileitis, or any combination thereof. <p>[DC]</p>26. The method of claim 24, further comprising administering a non-absorbable steroid to the subject. <p>[DC]</p>27. The method of claim 26, wherein the non-absorbable steroid is a corticosteroid. <p>[DC]</p>28. The method of claim 26, wherein the non-absorbable steroid is administered prior to the administration of the anti-ZZZ antibody or antigen-binding portion thereof or the anti-XYZ antibody or antigen-binding portion thereof. <p>[DC]</p>29. The method of claim 5 or 17, wherein the cancer is selected from melanoma, lung cancer, renal cancer, prostate cancer, breast cancer, colorectal cancer, and fibrosarcoma. <p>[DC]</p>30. The method of claim 5 or 17, wherein the cancer is bone cancer, pancreatic cancer, skin cancer, cancer of the head or neck, cutaneous or intraocular malignant melanoma, uterine cancer, ovarian cancer, rectal cancer, cancer of the anal region, stomach cancer, testicular cancer, uterine cancer, carcinoma of the fallopian tubes, carcinoma of the endometrium, carcinoma of the cervix, carcinoma of the vagina, carcinoma of the vulva, Hodgkin's Disease, non-Hodgkin's lymphoma, cancer of the esophagus, cancer of the small intestine, cancer of the endocrine system, cancer of the thyroid gland, cancer of the parathyroid gland, cancer of the adrenal gland, sarcoma of soft tissue, cancer of the urethra, cancer of the penis, chronic or acute leukemia, acute myeloid leukemia, chronic myeloid leukemia, acute lymphoblastic leukemia, chronic lymphocytic leukemia, solid tumors of childhood, lymphocytic lymphoma, cancer of the bladder, cancer of the kidney or ureter, carcinoma of the renal pelvis, neoplasm of the central nervous system (CNS), primary CNS lymphoma, tumor angiogenesis, spinal axis tumor, brain stem glioma, pituitary adenoma, Kaposi's sarcoma, epidermoid cancer, squamous cell cancer, T-cell lymphoma, environmentally induced cancers including those induced by asbestos, and combinations of said cancers. …. <p>[DC]</p>36. The method of claim 34, wherein the anti-ZZZ antibody or antigen-binding portion thereof exhibits one or more of the following properties: </br>(i) the anti-ZZZ antibody or antigen-binding portion thereof binds to human ZZZ with a K D of 1×108 M or less, wherein the KD is measured by surface plasmon resonance (Biacore) analysis; </br>(ii) the anti-ZZZ antibody or antigen-binding portion thereof binds to human ZZZ with an on rate (k on) of about 0.76×105 I/Ms or more, wherein the on rate (kon) is measured by surface plasmon resonance (Biacore) analysis; and  </br>(iii) the anti-ZZZ antibody or antigen-binding portion thereof binds to human ZZZ with an off rate (k off) of about 4.5×104 l/s or less, wherein the off rate (koff) is measured by surface plasmon resonance (Biacore) analysis.",
@@ -414,8 +414,8 @@
 													"name": "Crystaline component",
 													"color": "fuchsia",
 													"children": [{
-																	"name": "Crystaline component"
-																	"color": "fuchsia"
+																	"name": "Crystaline component",
+																	"color": "fuchsia",
 																	"claimReason": "“… composition comprising a crystal of an XYZ antibody …”",
 																	"indClaim": "<p>[IC]</p>13. A composition comprising a crystal of an XYZ antibody, said composition obtainable by a batch crystallization method, wherein said crystal has a needle morphology with a length of about 2-500 m and an l/d ratio of about 3 to 30.",
 																	"depClaim": "<p>[DC]</p>14. The composition of claim 13, wherein the antibody is non-glycosylated. <p>[DC]</p>15. The composition according to claim 13, wherein said composition has an antibody concentration greater than about 1 mg/ml. <p>[DC]</p>16. A pharmaceutical composition comprising: </br>(a) the composition according to claim 13, and </br>(b) at least one pharmaceutical excipient. <p>[DC]</p>17. The pharmaceutical composition of claim 16, wherein said pharmaceutical formulation is provided as a solid, a semisolid, or a liquid formulation. <p>[DC]</p>18. The pharmaceutical composition according to claim 16, wherein said pharmaceutical composition has an antibody concentration greater than about 200 mg/ml. <p>[DC]</p>19. A pharmaceutical composition comprising: </br>(a) the composition according to claim 13, and </br>(b) at least one pharmaceutical excipient which embeds or encapsulates the crystal. <p>[DC]</p>20. The pharmaceutical composition according to claim 19, wherein said excipient comprises at least one polymeric carrier or at least one oil or lipid carrier. <p>[DC]</p>21. The pharmaceutical composition according to claim 20, wherein said polymeric carrier is a polymer selected from one or more of the group consisting of poly(acrylic acid), poly(cyanoacrylates), poly(amino acids), poly(anhydrides), poly(depsipeptide), poly (esters), poly(lactic acid), poly(lactic-co-glycolic acid) or PLGA, poly((3-hydroxybutryate), poly (caprolactone), poly(dioxanone); poly(ethylene glycol), poly(hydroxypropyl)methacrylamide, poly(organo) phosphazene, poly(ortho esters), poly(vinyl alcohol), poly(vinylpyrrolidone), maleic anhydride alkyl vinyl ether copolymers, pluronic polyols, albumin, alginate, cellulose and cellulose derivatives, collagen, fibrin, gelatin, hyaluronic acid, oligosaccharides, glycaminoglycans, sulfated polysaccharides, and blends and copolymers thereof.",
@@ -547,7 +547,7 @@
 																	"indClaim": "<p>[IC]</p>2. A method of treating vasculitis in a human who does not have rheumatoid arthritis or cancer comprising: </br>(a) administering to the human more than one intravenous dose of a therapeutically effective amount of XYZmab; and </br>(b) administering to the human glucocorticosteroid.",
 																	"depClaim": "<p>[DC]</p>The method of claim 2 wherein the glucocorticosteroid is prednisone, methylprednisolone, or dexamethasone.",
 																	"source": "<p>Source:</p> US8545843"
-																}
+																},
 																{
 																	"name": "Broad",
 																	"color": "olive",
