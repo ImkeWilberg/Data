@@ -556,8 +556,7 @@
 																	"indClaim": "<p>[IC]</p>1. A method of treating rheumatoid arthritis in a human comprising: (a) administering to the human more than one intravenous dose of a therapeutically effective amount of XYZmab; and (b) administering to the human methotrexate.",
 																	"depClaim": "<p>[DC]</p>2. The method of claim 1, wherein each administration of the XYZmab is a dose in the range from about 250 mg/m2 to about 1000 mg/m2. <p>[DC]</p>3. The method of claim 1, comprising administering to the human a glucocorticosteroid. <p>[DC]</p>4. The method of claim 1, comprising administering an initial dose of the XYZmab followed by a subsequent dose, where the mg/m2 dose of the XYZmab in the subsequent dose exceeds the mg/m2 dose of the XYZmab in the initial dose.",
 																	"source": "<p>Source:</p> US7820161"
-																}
-																]
+																}]
 												},
 												{
 													"name": "Dose-formulation",
@@ -625,4 +624,4 @@
 												}]
 								}]
 				}]
-}	
+}
